@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.exe
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.deps.json
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.runtimeconfig.json
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.dll
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\bin\Debug\netcoreapp3.1\LunchBuddy.pdb
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.dll
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.pdb
+C:\Users\rmpfo\source\repos\LunchBuddy\LunchBuddy\obj\Debug\netcoreapp3.1\LunchBuddy.genruntimeconfig.cache
